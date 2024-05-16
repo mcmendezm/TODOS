@@ -12,6 +12,7 @@
 }
 .todoSearch::placeholder{
     color: #ffffff70;
+    font-family: "Poetsen One", sans-serif;
 }
 .todoSearch:focus{
     outline-color: var(--quaternary-color);
