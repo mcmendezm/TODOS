@@ -1,0 +1,18 @@
+.todoSearch{
+    border-radius: 5px;
+    border: none;
+    margin: 0 24px;
+    height: 45px;
+    width: 80%;
+    background-color: #75ffc180;
+    color: white;
+    font-family: "Poetsen One", sans-serif;
+    width: calc(100% - 62px);
+    text-align: center;
+}
+.todoSearch::placeholder{
+    color: #ffffff70;
+}
+.todoSearch:focus{
+    outline-color: var(--quaternary-color);
+}

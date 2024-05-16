@@ -1,0 +1,11 @@
+.todoCounter{
+  font-size: 30px;
+  text-align: center;
+  margin: 0;
+  padding: 48px;
+  color: var(--quaternary-color);
+  font-weight: normal;
+}
+.todoCounter span{
+    font-weight: bold;
+}

@@ -1,0 +1,31 @@
+:root{
+  --primary-color: #2d3286;
+  --secondary-color:#161441;
+  --tertiary-color:#6a5de780;
+  --quaternary-color:#75ffc1;
+  --quinary-color: #ffffff;
+}
+
+body {
+  margin: 0;
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to bottom, #2d3286, #282a74, #222262, #1c1b51, #161441);
+
+display: flex;
+justify-content: center;
+align-items: center;
+ color: var(--quinary-color);
+}
+#root{
+  margin: 0 24px;
+  position: relative;
+  min-height: 100vh;
+}
+code {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
