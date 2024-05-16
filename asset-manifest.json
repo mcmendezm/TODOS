@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "//mcmendezm.github.io/TODOs/static/css/main.f81bed55.css",
+    "main.css": "//mcmendezm.github.io/TODOs/static/css/main.a2076002.css",
     "main.js": "//mcmendezm.github.io/TODOs/static/js/main.f88e3756.js",
     "index.html": "//mcmendezm.github.io/TODOs/index.html",
-    "main.f81bed55.css.map": "//mcmendezm.github.io/TODOs/static/css/main.f81bed55.css.map",
+    "main.a2076002.css.map": "//mcmendezm.github.io/TODOs/static/css/main.a2076002.css.map",
     "main.f88e3756.js.map": "//mcmendezm.github.io/TODOs/static/js/main.f88e3756.js.map"
   },
   "entrypoints": [
-    "static/css/main.f81bed55.css",
+    "static/css/main.a2076002.css",
     "static/js/main.f88e3756.js"
   ]
 }
