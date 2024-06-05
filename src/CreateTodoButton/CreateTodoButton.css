@@ -15,9 +15,16 @@
     align-items: center;
     z-index: 1;
     width: 65px;
+    height: 65px;
     transform: rotate(0);
     transition:.3s ease-in-out ;
 }
 .createTodoButton:hover{
     transform: rotate(224deg);
+}
+@media (max-width: 400px) {
+    .createTodoButton{
+        width: 45px;
+        height: 45px;
+    }
 }
