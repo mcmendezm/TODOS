@@ -22,7 +22,7 @@
 .createTodoButton:hover{
     transform: rotate(224deg);
 }
-@media (max-width: 400px) {
+@media (max-width: 450px) {
     .createTodoButton{
         width: 45px;
         height: 45px;
