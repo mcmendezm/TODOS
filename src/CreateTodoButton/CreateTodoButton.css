@@ -13,12 +13,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    aspect-ratio: 1/1;
-    box-sizing: border-box;
     z-index: 1;
+    padding: 10px;
     max-width: 65px;
     max-height: 65px;
-    padding: 0 10px;
     transform: rotate(0);
     transition:.3s ease-in-out ;
 }
