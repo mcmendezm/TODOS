@@ -9,7 +9,7 @@
     bottom: 40px;
     right: 40px;
     font-weight: bold;
-    color: black;
+    color: var(--quinary-color);
     display: flex;
     justify-content: center;
     align-items: center;
