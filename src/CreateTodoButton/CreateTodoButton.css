@@ -26,5 +26,7 @@
     .createTodoButton{
         width: 45px;
         height: 45px;
+        box-sizing: border-box;
+        aspect-ratio: 1/1; 
     }
 }
