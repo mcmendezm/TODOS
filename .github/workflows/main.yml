@@ -23,8 +23,18 @@ jobs:
     - name: Install dependencies
       run: npm install
 
+    - name: Update Browserslist database
+      run: npx update-browserslist-db@latest
+
     - name: Build project
+      env:
+        CI: false  
       run: npm run build
+
+    - name: Configure Git identity
+      run: |
+        git config --global user.email "mcmendezmanotas@gmail.com"
+        git config --global user.name "mcmendezm"
 
     - name: Deploy to GitHub Pages
       env:
