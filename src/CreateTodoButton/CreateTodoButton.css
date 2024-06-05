@@ -18,6 +18,7 @@
     z-index: 1;
     max-width: 65px;
     max-height: 65px;
+    padding: 0 10px;
     transform: rotate(0);
     transition:.3s ease-in-out ;
 }
