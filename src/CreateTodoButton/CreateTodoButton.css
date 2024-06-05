@@ -14,9 +14,7 @@
     justify-content: center;
     align-items: center;
     z-index: 1;
-    padding: 5px 10px ;
-    max-width: 65px;
-    max-height: 65px;
+    width: 65px;
     transform: rotate(0);
     transition:.3s ease-in-out ;
 }
